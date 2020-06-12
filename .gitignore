@@ -30,3 +30,8 @@ build
 
 # IDEA
 .idea
+
+# VSCODE
+.project
+.settings
+.vscode
